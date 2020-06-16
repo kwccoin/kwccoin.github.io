@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+kwccoin.github.io/doc/index.markdown
