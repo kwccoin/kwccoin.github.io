@@ -4,6 +4,11 @@ title:  "Welcome to Jekyll!"
 date:   2020-06-16 20:28:40 +0800
 categories: jekyll update
 ---
+
+kwccoin.github.io/doc/_posts/2020-06-16-welcome-to-jekyll.markdown
+Find file Copy path
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
