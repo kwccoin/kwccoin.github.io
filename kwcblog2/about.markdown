@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+kwccoin.github.io/kwcblog2/about.markdown
+
 See https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages for more info
 
 Whilst this is about my page but to run it you have to do:
